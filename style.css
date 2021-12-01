@@ -1,0 +1,15 @@
+body {
+	background: rgb(96, 95, 103);
+	background: linear-gradient(90deg, rgb(23, 133, 197) 0%, rgb(46, 46, 190) 100%, blue)
+}
+
+button {
+	width: 90px;
+	margin: 5px;
+}
+
+.center {
+    margin: 60px auto 0px;
+	font-size: 55px;
+	font-weight: 200
+}
